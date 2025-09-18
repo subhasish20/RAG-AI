@@ -80,6 +80,3 @@ We welcome contributions! If you have ideas for improvements, bug fixes, or new 
 
 🌟 **Enjoy chatting with YouTube videos powered by AI!** 🌟
 
----
-
-Let me know if you'd like any more changes or additions!
