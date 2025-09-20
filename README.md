@@ -1,7 +1,7 @@
 
-# YouTube AI Assistant using Retrieval-Augmented Generation (RAG) with LangChain 🤖📺
+# Retrieval-Augmented Generation (RAG) AI with LangChain 🤖📺
 
-Welcome to the **YouTube AI Assistant using RAG**! This project leverages **LangChain**, **YouTube Transcript API**, and **Retrieval-Augmented Generation (RAG)** to create an intelligent chatbot that answers questions based on the content of YouTube videos. The integration of **YouTube data** and **RAG** enables precise, context-aware answers directly from video transcripts.
+Welcome to the * RAG**! This project leverages **LangChain**, **YouTube Transcript API**, and **Retrieval-Augmented Generation (RAG)** to create an intelligent chatbot that answers questions based on the content of YouTube videos. The integration of **YouTube data** and **RAG** enables precise, context-aware answers directly from video transcripts.
 
 ## 🚀 Features
 
@@ -22,30 +22,6 @@ Ensure you have **Python 3.x** installed along with the following libraries:
 * **FAISS**: For efficient similarity search
 * **Hugging Face**: For working with transformer-based models like GPT
 
-### Steps
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/subhasish20/YouTube-AI-Assistant-using-RAG.git
-   cd YouTube-AI-Assistant-using-RAG
-   ```
-
-2. Install the required packages:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Set up your **YouTube API credentials**:
-
-   * Follow the [YouTube API documentation](https://developers.google.com/youtube/v3) to get your API key 🔑
-
-4. Run the chatbot:
-
-   ```bash
-   python chatbot.py
-   ```
 
 ### 📊 How It Works
 
@@ -77,6 +53,4 @@ We welcome contributions! If you have ideas for improvements, bug fixes, or new 
 3. Commit your changes and push to your fork 🚀
 4. Create a pull request to the main repository 📥
 
-
-🌟 **Enjoy chatting with YouTube videos powered by AI!** 🌟
 
